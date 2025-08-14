@@ -1,0 +1,1 @@
+# patterns-gof-factory-method-v2
